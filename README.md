@@ -5,8 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/vivek-nath-835261323" target="_blank">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/home/fg/brand-homepg-guidance-linkedin-logo-dsk-v01.jpg.original.jpg" 
+       alt="LinkedIn Logo" 
+       height="25" 
+       style="vertical-align:middle;">
+</a>
+  <a href="https://leetcode.com/u/VivekNath__/"target="_blank">
+  <img src="https://assets.leetcode.com/static_assets/others/lc_thanksgiving_meta.png" height="25" alt="youtube logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
