@@ -1,59 +1,91 @@
 <div align="center">
-    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+    <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF"/>
 </div>
 
-###
+---
 
 <div align="center">
     <a href="https://www.linkedin.com/in/vivek-nath-835261323" target="_blank">
-        <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/home/fg/brand-homepg-guidance-linkedin-logo-dsk-v01.jpg.original.jpg"
-            alt="LinkedIn Logo" height="50" style="vertical-align:middle;">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://leetcode.com/u/VivekNath__/" target="_blank">
-        <img src="https://assets.leetcode.com/static_assets/others/lc_thanksgiving_meta.png" height="50"
-            alt="youtube logo" />
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
     <a href="https://vivek-portfolio-o2u8.onrender.com/" target="_blank">
-        <img src="https://marketplace.canva.com/EAFf9pTh3kg/1/0/1131w/canva-black-and-white-simple-portfolio-cover-page-BRYRBdWQKVU.jpg"
-            alt="github logo" height="50" />
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
     </a>
+</div>
 
-    ###
+---
 
-    <h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋, I'm Vivek Nath</h1>
 
-    ###
+<h3 align="center">💻 Software Engineer | AI Enthusiast | Problem Solver</h3>
 
-    <h3 align="left">👩‍💻 About Me</h3>
+---
 
-    ###
+### 👩‍💻 About Me
 
-    <p align="left">I'm Vivek Nath from Dehradun Uttarakhand <br><br>- 🔭 I’m a Student <br>- 📚 I'm currently
-        learning Artificial-Intelligence <br>- ⚡ In my free time I Explore,read</p>
+- 🌍 I'm from **Dehradun, Uttarakhand**  
+- 🎓 A passionate **student** exploring **Artificial Intelligence**  
+- 💡 Currently learning **Machine Learning & Deep Learning**  
+- ⚡ In my free time, I **explore tech**, **read**, and **work on creative projects**  
+- 🚀 Love building impactful ideas and improving every single day  
 
-    ###
+---
 
-    <h3 align="left">🛠 Language and tools</h3>
+### 🛠️ Languages & Tools
 
-    ###
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40" alt="Java Logo" />
+    <img width="12"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" alt="C Logo" />
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python Logo" />
+    <img width="12"/>
+    <img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" height="40" alt="Canva Logo" />
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS Logo" />
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker Logo" />
+</div>
 
-    <div align="left">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"
-            height="40" alt="java logo" />
-        <img width="12" />
-        <img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" height="40" alt="canva logo" />
-        <img width="12" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40"
-            alt="C logo" />
-        <img width="12" />
-        <img src="https://toppng.com/uploads/small/11735761603aulgsrzziznj5p3rw7p1ohi6ribgtofje4ps1956oaxqoccbgqmgaqouhgmhhebxfk1wjiya6arsaayaptuqyber2sjdanzpqjou.webp"
-            height="40" alt="python logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg"
-            height="40" alt="amazonwebservices logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40"
-            alt="docker logo" />
-    </div>
+---
 
-    ###
+### 📊 GitHub Stats & Streak
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=VivekNath08&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
+    <img src="https://streak-stats.demolab.com?user=VivekNath08&theme=tokyonight" height="150" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🚀 My Current Focus
+- 🌱 Learning advanced **AI & ML concepts**
+- 💼 Strengthening **Java** and **Data Structures**
+- 🎯 Building real-world AI-integrated projects
+- 🧠 Sharpening problem-solving with **LeetCode**
+
+---
+
+### 🌐 Let's Connect & Collaborate
+
+<div align="center">
+    <a href="mailto:viveknathofficial@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/vivek-nath-835261323/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://vivek-portfolio-o2u8.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+</div>
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=VivekNath08&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
+
