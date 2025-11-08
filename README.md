@@ -18,9 +18,9 @@
 
 ---
 
-<h1 align="center">Hey there 👋, I'm Vivek Nath</h1>
+<h1 align="center">Hey there 👋, I'm Vivek Nath, a Computer Science student at the University of Petroleum and Energy Studies (UPES), specializing in Artificial Intelligence and Machine Learning (AI & ML).</h1>
 
-<h3 align="center">💻 Software Engineer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">💻 Software Engineer | AI-Ml Enthusiast | Problem Solver | Freelancer </h3>
 
 ---
 
